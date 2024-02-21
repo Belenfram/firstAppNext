@@ -9,7 +9,7 @@ export default function Navbar() {
           <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex-shrink-0 flex items-center">
               <div className="text-white font-bold">
-                NEXT JS
+              <a href='/'>NEXT JS</a>
               </div>
             </div>
             <div className="hidden sm:block sm:ml-6">
