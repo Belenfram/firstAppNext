@@ -76,6 +76,7 @@ export default function Home() {
             width="400"
           />
         </div>
+        <p className="container mx-auto flex flex-col items-center justify-center h-screen">Agente de Valorant: Killjoy</p>
     </main>
   );
 }
